@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Abhishek Kumar
-** Aspiring AI/ML Engineer || Machine Learning || Generative AI || LLMs || Agentic AI || Python Developer **
+Aspiring AI/ML Engineer || Machine Learning || Generative AI || LLMs || Agentic AI || Python Developer
 
 [![](https://komarev.com/ghpvc/?username=brianbyteracer&icon=0)](https://visitcount.itsvg.in)
 
