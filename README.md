@@ -91,15 +91,13 @@ Aspiring AI/ML Engineer | Machine Learning | Generative AI | LLMs | Agentic AI |
 
 </div>
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=brianbyteracer&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<div align="center">
 
 <img width="49%" src="https://streak-stats.demolab.com?user=brianbyteracer&theme=transparent&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianbyteracer&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
