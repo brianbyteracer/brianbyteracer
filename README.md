@@ -73,26 +73,33 @@ Aspiring AI/ML Engineer | Machine Learning | Generative AI | LLMs | Agentic AI |
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=brianbyteracer&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianbyteracer&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianbyteracer&theme=github_dark" width="100%"/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=brianbyteracer&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=brianbyteracer&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=brianbyteracer&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br><br>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brianbyteracer&theme=github_dark" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brianbyteracer&theme=github_dark" width="49%"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brianbyteracer&theme=github_dark" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brianbyteracer&theme=github_dark&utcOffset=5.5" width="49%"/>
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=brianbyteracer&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=brianbyteracer&theme=transparent&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianbyteracer&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
