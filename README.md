@@ -1,6 +1,8 @@
 # 💫 Hi 👋, I'm Abhishek Kumar
 ** Aspiring AI/ML Engineer || Machine Learning || Generative AI || LLMs || Agentic AI || Python Developer **
 
+[![](https://komarev.com/ghpvc/?username=brianbyteracer&icon=0)](https://visitcount.itsvg.in)
+
 Email Me 👉 ✉️ **abhishek11july2018@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Machine Learning projects, AI-powered web applications, and predictive analytics solutions
@@ -29,6 +31,5 @@ Email Me 👉 ✉️ **abhishek11july2018@gmail.com** For Collaboration/Project 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=brianbyteracer&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=brianbyteracer&icon=2&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
