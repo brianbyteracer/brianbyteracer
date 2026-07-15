@@ -74,21 +74,6 @@ Aspiring AI/ML Engineer | Machine Learning | Generative AI | LLMs | Agentic AI |
 </p>
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianbyteracer&theme=github_dark" width="100%"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brianbyteracer&theme=github_dark" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brianbyteracer&theme=github_dark" width="49%"/>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brianbyteracer&theme=github_dark" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brianbyteracer&theme=github_dark&utcOffset=5.5" width="49%"/>
-
 </div>
 
 
